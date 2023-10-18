@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - donatePage</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/css/StyleSheet.css" />
+</head>
+
+
+<body>
+    <header>
+        <div class="navigation-wrap bg-light start-header start-style">
+            <div class="container">
+            <div class="row">
+            <div class="col-12">
+            <p id="fadeshow1" style="font-family:inherit; font-size:13px; color:#93c954; text-align:center;"><span><a href="https://goo.gl/maps/jpe4c1GnYJSo6nZf9" style="color:#93c954">4 Woodville Lane, Summerveld, KZN</a></span>  <span style="margin:30px"><a href="mailto:kerry@upperhighwaybabyhome.co.za" style="color:#93c954;">kerry@upperhighwaybabyhome.co.za</a></span>   <span><a href="tel:+27 82 823 1844" style="color:#93c954">+27 82 823 1844</a></span></p>
+            <nav class="navbar navbar-expand-md navbar-light">
+            
+            <img src="data:image/jpeg;base64,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" 
+            alt="" style="width:100px;height:100px;">
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ml-auto py-4 py-md-0">
+            <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
+            <a class="nav-link" href="/Index">Home</a>
+            </li>
+            <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4 active">
+            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">About us</a>
+            <div class="dropdown-menu">
+            <a class="dropdown-item" href="WhoAreWe">Our history</a>
+            @*<a class="dropdown-item" href="#">Our history</a>*@
+            <a class="dropdown-item" href="team">Meet the team!</a>
+            </div>
+            </li>
+            <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
+            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Make an impact</a>
+            <div class="dropdown-menu">
+@*            <a class="dropdown-item" href="#">How you can help</a>
+*@          <a class="dropdown-item" href="Donate">Donate</a>
+            <a class="dropdown-item" href="volunteer">Volunteer</a>
+            <a class="dropdown-item" href="wishlist">Wishlist</a>
+            <a class="dropdown-item" href="serviceHours">Community service hours</a>
+            </div>
+            </li>
+            @*<li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
+            <a class="nav-link" href="#">Our latest baby news</a>
+            </li>   *@
+            <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
+            <a class="nav-link" href="Contact">Contact us</a>
+            </li>
+            </ul>
+            </div>
+            </nav>
+            </div>
+            </div>
+            </div>
+            </div>
+
+        @*<nav  class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container">
+                <a class="navbar-brand" asp-area="" asp-page="/Index">donatePage</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a> 
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Privacy</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>*@
+    </header>
+
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2022 - donatePage - <a asp-area="" asp-page="/Privacy">Privacy</a>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

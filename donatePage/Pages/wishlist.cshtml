@@ -1,0 +1,592 @@
+﻿@page
+@model WILUHBH.Pages.wishlistModel
+@{
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Wishlist - UHBH</title>
+    <meta property="og:title" content="Wishlist - UHBH" />
+
+    <style data-tag="reset-style-sheet">
+      html {  line-height: 1.15;}body {  margin: 0;}* {  box-sizing: border-box;  border-width: 0;  border-style: solid;}p,li,ul,pre,div,h1,h2,h3,h4,h5,h6 {  margin: 0;  padding: 0;}button {  background-color: transparent;}button,input,optgroup,select,textarea {  font-family: inherit;  font-size: 100%;  line-height: 1.15;  margin: 0;}button,select {  text-transform: none;}button,[type="button"],[type="reset"],[type="submit"] {  -webkit-appearance: button;}button::-moz-focus-inner,[type="button"]::-moz-focus-inner,[type="reset"]::-moz-focus-inner,[type="submit"]::-moz-focus-inner {  border-style: none;  padding: 0;}button:-moz-focus,[type="button"]:-moz-focus,[type="reset"]:-moz-focus,[type="submit"]:-moz-focus {  outline: 1px dotted ButtonText;}a {  color: inherit;  text-decoration: inherit;}input {  padding: 2px 4px;}img {  display: block;}html { scroll-behavior: smooth  }
+    </style>
+    <style data-tag="default-style-sheet">
+      html {
+        font-family: Inter;
+        font-size: 16px;
+      }
+
+      img {
+        border-radius: 20px;
+        width: 100%;
+        height: auto;
+    }
+
+      body {
+        font-weight: 400;
+        font-style:normal;
+        text-decoration: none;
+        text-transform: none;
+        letter-spacing: normal;
+        line-height: 1.15;
+        color: var(--dl-color-gray-black);
+        background-color: var(--dl-color-gray-white);
+
+      }
+
+      .card {
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+        transition: 0.3s;
+        width: auto;
+        height: 100px;
+        border-radius: 5px;
+    }
+
+
+    .card:hover {
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    }
+
+    .container {
+        padding: 2px 16px;
+    }
+
+    </style>
+    <link
+      rel="shortcut icon"
+      href="/playground_assets/logo.jpg"
+      type="icon/png"
+      sizes="32x32"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font"
+    />
+    <!--This is the head section-->
+    <!-- <style> ... </style> -->
+    <link rel="stylesheet" href="~/css/style.css" />
+  </head>
+  <body>
+    <div>
+      <link href="~/css/wishlist.css" rel="stylesheet" />
+
+
+      <div class="wishlist-container">
+        <div class="wishlist-banner">
+          <h1 class="wishlist-text">Our Wishlist</h1> <!-- here-->
+          <br />
+          <div class="wishlist-container1">
+           
+          </div>
+          <div class="wishlist-btn-group"></div>
+        </div>
+        
+         <h1 class="wishlist-text001">
+              <span class="wishlist-text002">
+                We make a living by what we get,
+              </span>
+              <br />
+              <p>but we make a life by what we give.</p>
+            </h1>
+
+                        <span class="wishlist-text006">~ Winston Churchill</span>
+          
+          <img
+            alt="image"
+            src="playground_assets/donations-1200w.jpeg"
+            
+          />
+       
+        <div class="wishlist-banner1">
+          <h1 class="wishlist-text007">Baby Essentials and General Items</h1>
+          <span class="wishlist-text008">
+            <span>
+              Here is our standard list of baby essentials and general household
+              items. These requirements are what we need for the babies and to
+              keep the home in tip top shape. We also provide meals for our
+              staff and night nurses.
+            </span>
+            <br />
+            <br />
+            <span>Some items are used daily and others only when needed.</span>
+            <br />
+            <br />
+            <span>Please feel free to</span>
+            <a href="Contact" class="wishlist-navlink">contact us</a>
+            <span>if you need any clarity.</span>
+            <span></span>
+          </span>
+        </div>
+       @* <div class="wishlist-hero1">
+          <div class="wishlist-container2">
+            <span class="wishlist-text022">
+              <span class="wishlist-text023">CLEANING</span>
+              <br />
+              <br />*@
+              @*<span>Sunlight automatic washing powder</span>
+              <br />
+              <br />
+              <span>Sunlight fabric softener</span>
+              <br />
+              <br />
+              <span>Handy Andy</span>
+              <br />
+              <br />
+              <span>Mildew buster</span>
+              <br />
+              <br />
+              <span>Jik</span>
+              <br />
+              <br />
+              <span>Toilet duck</span>
+              <br />
+              <br />
+              <span>Double ply toilet paper</span>
+              <br />
+              <br />
+              <span>Kitchen towel</span>
+              <br />
+              <br />
+              <span>Tissues</span>
+              <br />
+              <br />
+              <span>Sunlight dishwashing liquid</span>
+              <br />
+              <br />
+              <span>Dishwasher tablets</span>
+              <br />
+              <br />
+              <span>Milton</span>
+              <br />
+              <br />
+              <span>Sterilon surface spray</span>
+              <br />
+              <br />
+              <span>Hand sanitiser</span>
+              <br />
+              <br />
+              <span>Air freshener</span>*@
+              @*<select name="cleaning" id="cleaning">
+    <option value="sunlight">Sunlight automatic washing powder</option>
+    <option value="fabric">Sunlight fabric softener</option>
+    <option value="handy">Handy Andy</option>
+    <option value="mil">Mildew Buster</option>
+    <option value="jik">Jik</option>
+    <option value="toilet">Toilet Duck</option>
+    <option value="double">Double Ply Toilet Paper</option>
+    <option value="kit">Kitchen Towel</option>
+    <option value="Tis">Tissues</option>
+    <option value="liquid">Sunlight Dishwashing Liquid</option>
+    <option value="tab">Dishwasher Tablets</option>
+    <option value="milt">Milton</option>
+    <option value="sterilon">Sterilon Surface Spray</option>
+    <option value="hand">Hand Sanitiser</option>
+    <option value="air">Air Freshener</option>
+  </select>*@
+@*              <br />
+              <br />
+              <br />
+              <br />*@
+              @*<span></span>
+            </span>
+          </div>
+          <div class="wishlist-container3">
+            <span class="wishlist-text074">
+              <span class="wishlist-text075">MEDICAL</span>
+              <br />
+              <br />*@
+             @* <span>Telament drops &amp; Gripe Water</span>
+              <br />
+              <br />
+              <span>Plasters &amp; Bactroban</span>
+              <br />
+              <br />
+              <span>Daktarin Oral Gel &amp; Gynodaktarin</span>
+              <br />
+              <br />
+              <span>Glycerine suppositories</span>
+              <br />
+              <br />
+              <span>Lacson</span>
+              <br />
+              <br />
+              <span>Eucalyptus oil &amp; Lavender oil</span>
+              <br />
+              <br />
+              <span>Camphorated oil</span>
+              <br />
+              <br />
+              <span>Sterimar baby spray &amp; Paediatric Iliadin</span>
+              <br />
+              <br />
+              <span>Paediatric Panado Syrup / Calpol</span>
+              <br />
+              <br />
+              <span>Teegel / teething powders</span>
+              <br />
+              <br />
+              <span>Bennets Colic Mixture</span>
+              <br />
+              <br />
+              <span>Antipoel Mixture</span>
+              <br />
+              <br />
+              <span>Karvol Capsules</span>
+              <br />
+              <br />
+              <span>Creche Gaurd</span>*@
+             @* <select name="medical" id="medical">
+    <option value="tel">Telament Drops and Gripe Water</option>
+    <option value="plast">Plasters and Bactroban</option>
+    <option value="dak">Daktarin Oral Gel and Gynodaktarin</option>
+    <option value="gly">Glycerine Suppositories</option>
+    <option value="lac">Lacson</option>
+    <option value="euc">Eucalyptis oil and Lavender Oil</option>
+    <option value="cam">Camphorated Oil</option>
+    <option value="ster">Sterimar baby spray and Paediatric Illiadin</option>
+    <option value="Tee">Teegel/Teething Powders</option>
+    <option value="ben">Bennets Colic Mixture</option>
+    <option value="ant">Antipoel Mixture</option>
+    <option value="kar">Karvol Capsules</option>
+    <option value="cre">Creche Guard</option>
+  </select>*@
+            @*</span>
+          </div>
+        </div>
+        <div class="wishlist-hero2">
+          <div class="wishlist-container4">
+            <span class="wishlist-text118">
+              <span class="wishlist-text119">BABY CONSUMABLES</span>
+              <br />
+              <br class="wishlist-text121" />*@
+             @* <span>Nappies Size 1-6</span>
+              <br />
+              <br class="wishlist-text124" />
+              <span>Wetwipes</span>
+              <br />
+              <br class="wishlist-text127" />
+              <span>Nappy sacks</span>
+              <br />
+              <br class="wishlist-text130" />
+              <span>Formula</span>
+              <br />
+              <br class="wishlist-text133" />
+              <span>Infacare 1 and 2</span>
+              <br />
+              <br class="wishlist-text136" />
+              <span>Isomil 1 and 2</span>
+              <br />
+              <br class="wishlist-text139" />
+              <span>Baby hair detangling spray</span>
+              <br />
+              <br class="wishlist-text142" />
+              <span>Baby body cream</span>
+              <br />
+              <br class="wishlist-text145" />
+              <span>Baby bum cream</span>
+              <br />
+              <br class="wishlist-text148" />
+              <span>Baby wash</span>
+              <br />
+              <br class="wishlist-text151" />
+              <span>Baby shampoo</span>*@
+              @*<select name="consume" id="consume">
+ <option value="nap">Nappies Size 1-6</option>
+ <option value="wet">Wetwipes</option>
+ <option value="sack">Nappy Sacks</option>
+ <option value="form">Formula</option>
+ <option value="infa">Infacare 1 and 2</option>
+ <option value="iso">Isomil 1 and 2</option>
+ <option value="hair">Baby hair detangling spray</option>
+ <option value="body">Baby Body Cream</option>
+ <option value="bum">Baby Bum Cream</option>
+ <option value="wash">Baby Wash</option> 
+ <option value="shamp">Baby Shampoo</option>
+ </select>*@
+              @*<br />
+              <br class="wishlist-text154" />
+              <span class="wishlist-text155">BABY FOOD</span>
+              <br class="wishlist-text156" />
+              <br class="wishlist-text157" />*@
+              @*<span>Baby Food (pouches e.g. Purity or Squish)</span>
+              <br />*@
+              @*<br class="wishlist-text160" />*@
+              @*<span>Purity jars</span>
+              <br />
+              <br class="wishlist-text163" />
+              <span>Baby Cereal</span>
+              <br />
+              <br class="wishlist-text166" />
+              <span>Teething biscuits</span>
+              <br />
+              <br class="wishlist-text169" />
+              <span>All pre-loved baby essentials</span>
+              <br />
+              <br class="wishlist-text172" />
+              <span>Any of these brands of bottles: –</span>
+              <br />
+              <br class="wishlist-text175" />
+              <span>Nuk, Dr Brown, Avent, Tommee Tippee</span>
+              <br />
+              <br />
+              <span>Dummies: Same brands as above</span>*@
+              @*<select name="food" id="food">
+ <option value="foo">Baby Food (pouches e.g. Purity and Squish)</option>
+ <option value="pur">Purity Jars</option>
+ <option value="cer">Baby Cereal</option>
+ <option value="teeth">Teething Biscuits</option>
+ <option value="all">All pre loved baby essentials</option>
+ <option value="iso">Isomil 1 and 2</option>
+ <option value="bot">Bottle Brands: Nuk, Dr Brown, Avent, Tommee Tippee</option>
+ <option value="dum">Dummy Brands: Same as above</option>
+ </select>*@
+            @*</span>
+          </div>
+          <div class="wishlist-container5">
+            <span class="wishlist-text180">
+              <span class="wishlist-text181">GROCERIES</span>
+              <br />
+              <br />*@
+             @* <span>Sugar</span>
+              <br />
+              <br />
+              <span>Rooibos</span>
+              <br />
+              <br />
+              <span>Jacobs instant coffee</span>
+              <br />
+              <br />
+              <span>Long life milk – full fat</span>
+              <br />
+              <br />
+              <span>Biscuits</span>
+              <br />
+              <br />
+              <span>Margarine</span>
+              <br />
+              <br />
+              <span>Tin of Tomato and onion mix</span>
+              <br />
+              <br />
+              <span>Tomato puree</span>
+              <br />
+              <br />
+              <span>All gold tomato sauce in plastic</span>
+              <br />
+              <br />
+              <span>Juice / juice concentrate</span>
+              <br />
+              <br />
+              <span>Mielie meal</span>
+              <br />
+              <br />
+              <span>Flour</span>
+              <br />
+              <br />
+              <span>Pasta / Rice</span>
+              <br />
+              <br />
+              <span>Sunflower oil</span>
+              <br />
+              <br />
+              <span>Samp</span>
+              <br />
+              <br />
+              <span>Beans</span>
+              <br />
+              <br />
+              <span>Fresh fruit and veg</span>
+              <br />
+              <br />
+              <span>Eggs</span>*@
+             @* <select name="grocer" id="grocer">
+ <option value="sug">Sugar</option>
+ <option value="rooi">Rooibos</option>
+ <option value="jac">Jacobs Instant Coffee</option>
+ <option value="long">Long Life Milk - Full Fat</option>
+ <option value="bis">Biscuits</option>
+ <option value="marg">Margarine</option>
+ <option value="tin">Tin of Tomato and Onion Mix</option>
+ <option value="tom">Tomato Puree</option>
+ <option value="all">All gold tomato sauce in plastic</option>
+ <option value="jui">Juice/Juice Concentrate</option>
+ <option value="mielie">Mielie Meal</option>
+ <option value="flo">Flour</option>
+ <option value="past">Pasta/Rice</option>
+ <option value="sunf">Sunflower oil</option>
+ <option value="samp">Samp</option>
+ <option value="beans">Beans</option>
+ <option value="fresh">Fresh Fruit and Veg</option>
+ <option value="egg">Eggs</option>
+ <option value="min">Mince</option>
+ <option value="stew">Stewing Lamb</option>
+ <option value="chic">Chicken Breasts</option>
+ <option value="fli">Flings/Cheese Curl Chips</option>
+ </select>*@
+              @*<br />
+              <br class="wishlist-text237" />
+              <span>Mince</span>
+              <br />
+              <br class="wishlist-text240" />
+              <span>Stewing lamb</span>
+              <br />
+              <br class="wishlist-text243" />
+              <span>Chicken breasts</span>
+              <br />
+              <br class="wishlist-text246" />
+              <span>Flings or cheese curl chips</span>*@
+           @* </span>
+          </div>
+        </div>*@
+      </div>
+    </div>
+
+ <div class="card-deck">
+        <div class="card">
+            <!-- below is the over all best options for the menus, other dropdown fucntions, limits or styles, tend to have an issue somwhere, hence the default is the overall best option-->
+            <div class="container">
+                <br />
+                <h4><b>Cleaning</b></h4>
+                <br />
+                <select name="cleaning" id="cleaning" > 
+    <option value="sunlight">Sunlight automatic washing powder</option>
+    <option value="fabric">Sunlight fabric softener</option>
+    <option value="handy">Handy Andy</option>
+    <option value="mil">Mildew Buster</option>
+    <option value="jik">Jik</option>
+    <option value="toilet">Toilet Duck</option>
+    <option value="double">Double Ply Toilet Paper</option>
+    <option value="kit">Kitchen Towel</option>
+    <option value="Tis">Tissues</option>
+    <option value="liquid">Sunlight Dishwashing Liquid</option>
+    <option value="tab">Dishwasher Tablets</option>
+    <option value="milt">Milton</option>
+    <option value="sterilon">Sterilon Surface Spray</option>
+    <option value="hand">Hand Sanitiser</option>
+    <option value="air">Air Freshener</option>
+  </select>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="container">
+                <br />
+                <h4><b>Medical</b></h4>
+                <br />
+                <select name="medical" id="medical">
+    <option value="tel">Telament Drops and Gripe Water</option>
+    <option value="plast">Plasters and Bactroban</option>
+    <option value="dak">Daktarin Oral Gel and Gynodaktarin</option>
+    <option value="gly">Glycerine Suppositories</option>
+    <option value="lac">Lacson</option>
+    <option value="euc">Eucalyptis oil and Lavender Oil</option>
+    <option value="cam">Camphorated Oil</option>
+    <option value="ster">Sterimar baby spray and Paediatric Illiadin</option>
+    <option value="Tee">Teegel/Teething Powders</option>
+    <option value="ben">Bennets Colic Mixture</option>
+    <option value="ant">Antipoel Mixture</option>
+    <option value="kar">Karvol Capsules</option>
+    <option value="cre">Creche Guard</option>
+  </select>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="container">
+                <br />
+                <h4><b>Groceries</b></h4>
+                <br />
+                <select name="grocer" id="grocer">
+ <option value="sug">Sugar</option>
+ <option value="rooi">Rooibos</option>
+ <option value="jac">Jacobs Instant Coffee</option>
+ <option value="long">Long Life Milk - Full Fat</option>
+ <option value="bis">Biscuits</option>
+ <option value="marg">Margarine</option>
+ <option value="tin">Tin of Tomato and Onion Mix</option>
+ <option value="tom">Tomato Puree</option>
+ <option value="all">All gold tomato sauce in plastic</option>
+ <option value="jui">Juice/Juice Concentrate</option>
+ <option value="mielie">Mielie Meal</option>
+ <option value="flo">Flour</option>
+ <option value="past">Pasta/Rice</option>
+ <option value="sunf">Sunflower oil</option>
+ <option value="samp">Samp</option>
+ <option value="beans">Beans</option>
+ <option value="fresh">Fresh Fruit and Veg</option>
+ <option value="egg">Eggs</option>
+ <option value="min">Mince</option>
+ <option value="stew">Stewing Lamb</option>
+ <option value="chic">Chicken Breasts</option>
+ <option value="fli">Flings/Cheese Curl Chips</option>
+ </select>
+            </div>
+        </div>
+    </div>
+    <br />
+
+
+    <div class="card-deck">
+        <div class="card">
+            <!--<img src="img_avatar2.png" alt="Avatar" style="width:100%">-->
+            <div class="container">
+                <br />
+                <h4><b>Baby consumables</b></h4>
+                <br />
+                <select name="consume" id="consume">
+ <option value="nap">Nappies Size 1-6</option>
+ <option value="wet">Wetwipes</option>
+ <option value="sack">Nappy Sacks</option>
+ <option value="form">Formula</option>
+ <option value="infa">Infacare 1 and 2</option>
+ <option value="iso">Isomil 1 and 2</option>
+ <option value="hair">Baby hair detangling spray</option>
+ <option value="body">Baby Body Cream</option>
+ <option value="bum">Baby Bum Cream</option>
+ <option value="wash">Baby Wash</option> 
+ <option value="shamp">Baby Shampoo</option>
+ </select>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="container">
+                <br />
+                <h4><b>Baby food</b></h4>
+                <br />
+                <select name="food" id="food">
+ <option value="foo">Baby Food (pouches e.g. Purity and Squish)</option>
+ <option value="pur">Purity Jars</option>
+ <option value="cer">Baby Cereal</option>
+ <option value="teeth">Teething Biscuits</option>
+ <option value="all">All pre loved baby essentials</option>
+ <option value="iso">Isomil 1 and 2</option>
+ <option value="bot">Bottle Brands: Nuk, Dr Brown, Avent, Tommee Tippee</option>
+ <option value="dum">Dummy Brands: Same as above</option>
+ </select>
+
+  </select>
+            </div>
+        </div>
+    </div>
+
+<br />
+<br />
+<br />
+<br />
+  </body>
+</html>

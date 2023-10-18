@@ -1,0 +1,190 @@
+.component-container {
+  width: 606px;
+  height: 452px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.component-text {
+  color: var(--dl-color-gray-black);
+  box-shadow: inherit;
+}
+.component-container01 {
+  width: auto;
+  height: 79px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.component-icon {
+  fill: #8ac11c;
+  width: 24px;
+  height: 24px;
+  align-self: flex-start;
+  margin-top: var(--dl-space-space-threeunits);
+  margin-left: var(--dl-space-space-oneandhalfunits);
+  margin-right: var(--dl-space-space-oneandhalfunits);
+}
+.component-container02 {
+  flex: 0 0 auto;
+  width: 358px;
+  height: 20px;
+  display: flex;
+  margin-top: 53px;
+  align-items: center;
+  justify-content: flex-start;
+}
+.component-container03 {
+  flex: 0 0 auto;
+  width: auto;
+  height: 79px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.component-icon02 {
+  fill: #8ac11c;
+  width: 24px;
+  height: 24px;
+  margin-top: var(--dl-space-space-threeunits);
+  margin-left: var(--dl-space-space-oneandhalfunits);
+  margin-right: var(--dl-space-space-oneandhalfunits);
+}
+.component-container04 {
+  width: auto;
+  height: 79px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.component-container05 {
+  flex: 0 0 auto;
+  width: 358px;
+  height: 20px;
+  display: flex;
+  margin-top: 53px;
+  align-items: center;
+  justify-content: flex-start;
+}
+.component-container06 {
+  flex: 0 0 auto;
+  width: auto;
+  height: 79px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.component-icon04 {
+  fill: #8ac11c;
+  width: 24px;
+  height: 24px;
+  margin-top: var(--dl-space-space-threeunits);
+  margin-left: var(--dl-space-space-oneandhalfunits);
+  margin-right: var(--dl-space-space-oneandhalfunits);
+}
+.component-container07 {
+  width: auto;
+  height: 79px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.component-container08 {
+  flex: 0 0 auto;
+  width: 358px;
+  height: 20px;
+  display: flex;
+  margin-top: 53px;
+  align-items: center;
+  justify-content: flex-start;
+}
+.component-container09 {
+  flex: 0 0 auto;
+  width: auto;
+  height: 79px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.component-icon06 {
+  fill: #8ac11c;
+  width: 24px;
+  height: 24px;
+  margin-top: var(--dl-space-space-threeunits);
+  margin-left: var(--dl-space-space-oneandhalfunits);
+  margin-right: var(--dl-space-space-oneandhalfunits);
+}
+.component-container10 {
+  width: auto;
+  height: 79px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.component-container11 {
+  flex: 0 0 auto;
+  width: 358px;
+  height: 20px;
+  display: flex;
+  margin-top: 53px;
+  align-items: center;
+  justify-content: flex-start;
+}
+.component-container12 {
+  flex: 0 0 auto;
+  width: auto;
+  height: 79px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.component-icon08 {
+  fill: #8ac11c;
+  width: 24px;
+  height: 24px;
+  margin-top: var(--dl-space-space-threeunits);
+  margin-left: var(--dl-space-space-oneandhalfunits);
+  margin-right: var(--dl-space-space-oneandhalfunits);
+}
+.component-container13 {
+  width: auto;
+  height: 79px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.component-container14 {
+  flex: 0 0 auto;
+  width: 358px;
+  height: 20px;
+  display: flex;
+  margin-top: 53px;
+  align-items: center;
+  justify-content: flex-start;
+}
+.component-root-class-name1 {
+  margin-left: var(--dl-space-space-sixunits);
+}
+@media(max-width: 991px) {
+  .component-root-class-name1 {
+    margin-left: var(--dl-space-space-threeunits);
+  }
+}
+@media(max-width: 767px) {
+  .component-root-class-name1 {
+    align-self: center;
+    margin-left: 0px;
+  }
+}
+@media(max-width: 479px) {
+  .component-container {
+    width: 479px;
+    height: 496px;
+  }
+  .component-text {
+    width: 454px;
+    align-self: center;
+  }
+}

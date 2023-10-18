@@ -1,0 +1,94 @@
+D:\WIL\Shahil\donatePage\donatePage\donatePage\bin\Debug\net5.0\appsettings.Development.json
+D:\WIL\Shahil\donatePage\donatePage\donatePage\bin\Debug\net5.0\appsettings.json
+D:\WIL\Shahil\donatePage\donatePage\donatePage\bin\Debug\net5.0\WILUHBH.exe
+D:\WIL\Shahil\donatePage\donatePage\donatePage\bin\Debug\net5.0\WILUHBH.deps.json
+D:\WIL\Shahil\donatePage\donatePage\donatePage\bin\Debug\net5.0\WILUHBH.runtimeconfig.json
+D:\WIL\Shahil\donatePage\donatePage\donatePage\bin\Debug\net5.0\WILUHBH.runtimeconfig.dev.json
+D:\WIL\Shahil\donatePage\donatePage\donatePage\bin\Debug\net5.0\WILUHBH.dll
+D:\WIL\Shahil\donatePage\donatePage\donatePage\bin\Debug\net5.0\WILUHBH.pdb
+D:\WIL\Shahil\donatePage\donatePage\donatePage\bin\Debug\net5.0\WILUHBH.Views.dll
+D:\WIL\Shahil\donatePage\donatePage\donatePage\bin\Debug\net5.0\WILUHBH.Views.pdb
+D:\WIL\Shahil\donatePage\donatePage\donatePage\obj\Debug\net5.0\WILUHBH.csproj.AssemblyReference.cache
+D:\WIL\Shahil\donatePage\donatePage\donatePage\obj\Debug\net5.0\WILUHBH.GeneratedMSBuildEditorConfig.editorconfig
+D:\WIL\Shahil\donatePage\donatePage\donatePage\obj\Debug\net5.0\WILUHBH.AssemblyInfoInputs.cache
+D:\WIL\Shahil\donatePage\donatePage\donatePage\obj\Debug\net5.0\WILUHBH.AssemblyInfo.cs
+D:\WIL\Shahil\donatePage\donatePage\donatePage\obj\Debug\net5.0\WILUHBH.csproj.CoreCompileInputs.cache
+D:\WIL\Shahil\donatePage\donatePage\donatePage\obj\Debug\net5.0\WILUHBH.MvcApplicationPartsAssemblyInfo.cache
+D:\WIL\Shahil\donatePage\donatePage\donatePage\obj\Debug\net5.0\WILUHBH.RazorAssemblyInfo.cache
+D:\WIL\Shahil\donatePage\donatePage\donatePage\obj\Debug\net5.0\WILUHBH.RazorAssemblyInfo.cs
+D:\WIL\Shahil\donatePage\donatePage\donatePage\obj\Debug\net5.0\scopedcss\bundle\WILUHBH.styles.css
+D:\WIL\Shahil\donatePage\donatePage\donatePage\obj\Debug\net5.0\staticwebassets\WILUHBH.StaticWebAssets.Manifest.cache
+D:\WIL\Shahil\donatePage\donatePage\donatePage\obj\Debug\net5.0\WILUHBH.TagHelpers.input.cache
+D:\WIL\Shahil\donatePage\donatePage\donatePage\obj\Debug\net5.0\WILUHBH.TagHelpers.output.cache
+D:\WIL\Shahil\donatePage\donatePage\donatePage\obj\Debug\net5.0\WILUHBH.RazorCoreGenerate.cache
+D:\WIL\Shahil\donatePage\donatePage\donatePage\obj\Debug\net5.0\Razor\Pages\Donate.cshtml.g.cs
+D:\WIL\Shahil\donatePage\donatePage\donatePage\obj\Debug\net5.0\Razor\Pages\Donatepage.cshtml.g.cs
+D:\WIL\Shahil\donatePage\donatePage\donatePage\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\WIL\Shahil\donatePage\donatePage\donatePage\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\WIL\Shahil\donatePage\donatePage\donatePage\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\WIL\Shahil\donatePage\donatePage\donatePage\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\WIL\Shahil\donatePage\donatePage\donatePage\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\WIL\Shahil\donatePage\donatePage\donatePage\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\WIL\Shahil\donatePage\donatePage\donatePage\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\WIL\Shahil\donatePage\donatePage\donatePage\obj\Debug\net5.0\WILUHBH.RazorTargetAssemblyInfo.cache
+D:\WIL\Shahil\donatePage\donatePage\donatePage\obj\Debug\net5.0\WILUHBH.RazorTargetAssemblyInfo.cs
+D:\WIL\Shahil\donatePage\donatePage\donatePage\obj\Debug\net5.0\WILUHBH.Views.pdb
+D:\WIL\Shahil\donatePage\donatePage\donatePage\obj\Debug\net5.0\WILUHBH.dll
+D:\WIL\Shahil\donatePage\donatePage\donatePage\obj\Debug\net5.0\refint\WILUHBH.dll
+D:\WIL\Shahil\donatePage\donatePage\donatePage\obj\Debug\net5.0\WILUHBH.pdb
+D:\WIL\Shahil\donatePage\donatePage\donatePage\obj\Debug\net5.0\WILUHBH.genruntimeconfig.cache
+D:\WIL\Shahil\donatePage\donatePage\donatePage\obj\Debug\net5.0\ref\WILUHBH.dll
+D:\WIL\Shahil\donatePage\donatePage\donatePage\obj\Debug\net5.0\WILUHBH.csproj.CopyComplete
+D:\WIL\Shahil\donatePage\donatePage\donatePage\obj\Debug\net5.0\Razor\Pages\Contact.cshtml.g.cs
+D:\WIL\Shahil\donatePage\donatePage\donatePage\obj\Debug\net5.0\Razor\Pages\WhoAreWe.cshtml.g.cs
+D:\WIL\Shahil\donatePage\donatePage\donatePage\obj\Debug\net5.0\Razor\Pages\serviceHours.cshtml.g.cs
+D:\WIL\Shahil\donatePage\donatePage\donatePage\obj\Debug\net5.0\Razor\Pages\team.cshtml.g.cs
+D:\WIL\Shahil\donatePage\donatePage\donatePage\obj\Debug\net5.0\Razor\Pages\volunteer.cshtml.g.cs
+D:\WIL\Shahil\donatePage\donatePage\donatePage\obj\Debug\net5.0\Razor\Pages\wishlist.cshtml.g.cs
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\bin\Debug\net5.0\appsettings.json
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\bin\Debug\net5.0\WILUHBH.exe
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\bin\Debug\net5.0\WILUHBH.deps.json
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\bin\Debug\net5.0\WILUHBH.runtimeconfig.json
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\bin\Debug\net5.0\WILUHBH.runtimeconfig.dev.json
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\bin\Debug\net5.0\WILUHBH.dll
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\bin\Debug\net5.0\WILUHBH.pdb
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\bin\Debug\net5.0\WILUHBH.Views.dll
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\bin\Debug\net5.0\WILUHBH.Views.pdb
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\obj\Debug\net5.0\WILUHBH.csproj.AssemblyReference.cache
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\obj\Debug\net5.0\WILUHBH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\obj\Debug\net5.0\WILUHBH.AssemblyInfoInputs.cache
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\obj\Debug\net5.0\WILUHBH.AssemblyInfo.cs
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\obj\Debug\net5.0\WILUHBH.csproj.CoreCompileInputs.cache
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\obj\Debug\net5.0\WILUHBH.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\obj\Debug\net5.0\WILUHBH.RazorAssemblyInfo.cache
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\obj\Debug\net5.0\WILUHBH.RazorAssemblyInfo.cs
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\obj\Debug\net5.0\scopedcss\bundle\WILUHBH.styles.css
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\obj\Debug\net5.0\staticwebassets\WILUHBH.StaticWebAssets.Manifest.cache
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\obj\Debug\net5.0\WILUHBH.TagHelpers.input.cache
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\obj\Debug\net5.0\WILUHBH.TagHelpers.output.cache
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\obj\Debug\net5.0\WILUHBH.RazorCoreGenerate.cache
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\obj\Debug\net5.0\Razor\Pages\Contact.cshtml.g.cs
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\obj\Debug\net5.0\Razor\Pages\Donate.cshtml.g.cs
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\obj\Debug\net5.0\Razor\Pages\Donatepage.cshtml.g.cs
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\obj\Debug\net5.0\Razor\Pages\serviceHours.cshtml.g.cs
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\obj\Debug\net5.0\Razor\Pages\team.cshtml.g.cs
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\obj\Debug\net5.0\Razor\Pages\volunteer.cshtml.g.cs
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\obj\Debug\net5.0\Razor\Pages\WhoAreWe.cshtml.g.cs
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\obj\Debug\net5.0\Razor\Pages\wishlist.cshtml.g.cs
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\obj\Debug\net5.0\WILUHBH.RazorTargetAssemblyInfo.cache
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\obj\Debug\net5.0\WILUHBH.RazorTargetAssemblyInfo.cs
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\obj\Debug\net5.0\WILUHBH.Views.pdb
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\obj\Debug\net5.0\WILUHBH.dll
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\obj\Debug\net5.0\refint\WILUHBH.dll
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\obj\Debug\net5.0\WILUHBH.pdb
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\obj\Debug\net5.0\WILUHBH.genruntimeconfig.cache
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\obj\Debug\net5.0\ref\WILUHBH.dll
+C:\Users\Shai\Desktop\WILL docs\2. visual studio work\donatePage (2)\donatePage\donatePage\donatePage\obj\Debug\net5.0\WILUHBH.csproj.CopyComplete

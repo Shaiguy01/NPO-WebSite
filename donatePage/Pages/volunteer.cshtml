@@ -1,0 +1,365 @@
+﻿@page
+@model WILUHBH.Pages.volunteerModel
+@{
+}
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Volunteer - UHBH</title>
+    <meta property="og:title" content="Volunteer - UHBH" />
+
+    <style data-tag="reset-style-sheet">
+      html {  line-height: 1.15;}body {  margin: 0;}* {  box-sizing: border-box;  border-width: 0;  border-style: solid;}p,li,ul,pre,div,h1,h2,h3,h4,h5,h6 {  margin: 0;  padding: 0;}button {  background-color: transparent;}button,input,optgroup,select,textarea {  font-family: inherit;  font-size: 100%;  line-height: 1.15;  margin: 0;}button,select {  text-transform: none;}button,[type="button"],[type="reset"],[type="submit"] {  -webkit-appearance: button;}button::-moz-focus-inner,[type="button"]::-moz-focus-inner,[type="reset"]::-moz-focus-inner,[type="submit"]::-moz-focus-inner {  border-style: none;  padding: 0;}button:-moz-focus,[type="button"]:-moz-focus,[type="reset"]:-moz-focus,[type="submit"]:-moz-focus {  outline: 1px dotted ButtonText;}a {  color: inherit;  text-decoration: inherit;}input {  padding: 2px 4px;}img {  display: block;}html { scroll-behavior: smooth  }
+    </style>
+    <style data-tag="default-style-sheet">
+      html {
+        font-family: Inter;
+        font-size: 16px;
+      }
+
+      body {
+        font-weight: 400;
+        font-style:normal;
+        text-decoration: none;
+        text-transform: none;
+        letter-spacing: normal;
+        line-height: 1.15;
+        color: var(--dl-color-gray-black);
+        background-color: var(--dl-color-gray-white);
+      }
+
+
+    input {
+        border-radius: 10px;
+        border-block-color: black;
+        border-block-width: 1px;
+        border-width: 1px;
+    }
+
+    button {
+        border-radius: 10px;
+        border-block-color: black;
+        border-block-width: 1px;
+        border-width: 1px;
+    }
+
+
+    .card {
+        transition: 0.3s;
+        width: 100%;
+        border-radius: 20px;
+        border: 1px;
+        
+    }
+
+
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+
+    </style>
+    <link
+      rel="shortcut icon"
+      href="/playground_assets/logo.jpg"
+      type="icon/png"
+      sizes="32x32"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font"
+    />
+    <!--This is the head section-->
+    <!-- <style> ... </style> -->
+    <link rel="stylesheet" href="~/css/style.css" />
+  </head>
+  <body>
+    <div>
+      <link href="~/css/volunteer.css" rel="stylesheet" />
+
+      <div class="volunteer-container">
+        <div class="volunteer-banner">
+          <h1 class="volunteer-text">Volunteer</h1>
+          <div class="volunteer-btn-group"></div>
+        </div>
+        <div class="volunteer-container01">
+          <h1 class="volunteer-text01">
+            "A volunteer is not paid because they are worthless, a volunteer is
+            not paid because they are priceless."
+          </h1>
+          <span class="volunteer-text02">
+            <span>
+              Would you like to volunteer to come and spend some time at the
+              Baby Home? We rely on our surrounding communities to help us with
+              the care and attention that the babies need. We already have a
+              large group of volunteers but there is alway room for more and we
+              still have space for one more baby. Once they arrive we will need
+              even more loving arms.
+            </span>
+            <br />
+            <br />
+
+            <span>
+              If you aren’t able to spend time with us, there are plenty of
+              other ways to get involved. Become a drop off point in an area we
+              haven’t got covered yet or donate items that your own children are
+              finished with.
+            </span>
+            <br />
+            <br />
+
+            <span>
+              All these little things help make a difference in the lives of
+              these little ones, and help the other facilities that we support.
+            </span>
+          </span>
+        </div>
+        <div class="volunteer-container02"></div>
+        <div class="volunteer-container03"></div>
+        <div class="volunteer-container04">
+          <div class="volunteer-container05"></div>
+        </div>
+        <h1 class="volunteer-text14">Some of our lovely volunteers</h1>
+        <div class="volunteer-gallery">
+          <div class="volunteer-container06">
+            <div class="volunteer-container07">
+              <div class="volunteer-container08">
+                <div class="volunteer-gallery-card">
+                  <div class="volunteer-container09">
+                    <div class="volunteer-container10">
+                      <h2 class="volunteer-text15">Love</h2>
+                      <span class="volunteer-text16">
+                        You were born to brighten the days of everyone else around you
+                      </span>
+                    </div>
+                  </div>
+                  <img
+                    alt="image"
+                    src="/playground_assets/community5-1500h.jpg"
+                    class="volunteer-image"
+                  />
+                </div>
+              </div>
+              <div class="volunteer-container11">
+                <div class="volunteer-gallery-card1">
+                  <div class="volunteer-container12">
+                    <div class="volunteer-container13">
+                      <h2 class="volunteer-text18">Care</h2>
+                      <span class="volunteer-text19">
+                        A baby is the purest form of love to can ever know
+                      </span>
+                    </div>
+                  </div>
+                  <img
+                    alt="image"
+                    src="/playground_assets/community9-1500h.jpg"
+                    class="volunteer-image1"
+                  />
+                </div>
+              </div>
+            </div>
+            <div class="volunteer-container14">
+              <div class="volunteer-gallery-card2">
+                <div class="volunteer-container15">
+                  <div class="volunteer-container16">
+                    <h2 class="volunteer-text21">Joy</h2>
+                    <span class="volunteer-text22">
+                      how can someone so little fill so many hearts
+                    </span>
+                  </div>
+                </div>
+                <img
+                  alt="image"
+                  src="/playground_assets/community1-1500h.jpg"
+                  class="volunteer-image2"
+                />
+              </div>
+            </div>
+          </div>
+          <div class="volunteer-container17">
+            <div class="volunteer-gallery-card3">
+              <div class="volunteer-container18">
+                <div class="volunteer-container19">
+                  <h2 class="volunteer-text24">Happiness</h2>
+                  <span class="volunteer-text25">
+                    Little bundles of hopes and dreams
+                  </span>
+                </div>
+              </div>
+              <img
+                alt="image"
+                src="/playground_assets/community3-1400w.jpg"
+                class="volunteer-image3"
+              />
+            </div>
+          </div>
+        </div>
+        <!------------------------------------------------------working here----------------------------------------------->
+<br /> 
+
+<div class="text-center">
+    <h1 style="color:#93c954" class="display-4, text-center, font-family:Sans-serif ">Urgent and current funding needs</h1>
+</div>
+
+<br />
+<br />
+
+<div class="card">
+    <div class="container">
+        <p style="text-align:center">
+            The Upper Highway Baby Home is currently at full capacity.  
+            A request has already been placed for us to expand the home into a cluster foster 
+            care facility to increase the number of babies that can be taken in
+        </p>
+        <br />
+        <br />
+        <p style="text-align:center">
+            An extension to the nursery to include 3 new bedrooms, a specialised kitchen and 
+            baby bathroom are required.  The costs are outlined in our business plan, which 
+            is available upon request. As of April 2020, we have in our care, four energetic 
+            toddlers who are on the move, two crawlers and one 3 month old. Consequently, 
+            the staffing requirements are extensive and thus the operational costs are high.
+        </p>
+        <br />
+        <br />
+        <p style="text-align:center">
+            Any assistance is greatly appreciated and goes a long way to ensuring the sustainability
+            of the home. Once the Covid-19 crisis is over – our 4 toddlers will be placed with their
+            forever families. The adoptions were unfortunately put on hold due to travel restrictions.
+            The sad reality is that new babies will fill their spots before we know it.
+        </p>
+        <br />
+        <br />
+        <p style="text-align:center">
+            Have a look below at the various ways to help and see if you or your Company can assist in any way possible.
+        </p>
+
+    </div>
+</div>
+
+<br />
+<br />
+
+
+
+
+        <!------------------------------------------------------working here----------------------------------------------->
+        <div class="volunteer-container20">
+                @*<form class="volunteer-form">*@
+            <h1 class="volunteer-text27">Message Us</h1> <!--start below-->
+                @* <div class="volunteer-container21">
+                    <span class="volunteer-text28">Name</span>
+                    </div>
+                    <div class="volunteer-container22">
+                    <input
+                    type="text"
+                    placeholder="placeholder"
+                    class="volunteer-textinput input"
+                    />
+                    <input
+                    type="text"
+                    placeholder="placeholder"
+                    class="volunteer-textinput1 input"
+                    />
+                    </div>
+                    <label class="volunteer-label">First</label>
+                    <label class="volunteer-text29">Last</label>
+                    <div class="volunteer-container23">
+                    <span class="volunteer-text30">Phone*</span>
+                    </div>
+                    <input
+                    type="tel"
+                    placeholder="placeholder"
+                    class="volunteer-textinput2 input"
+                    />
+                    <div class="volunteer-container24">
+                    <span class="volunteer-text31">Email</span>
+                    </div>
+                    <input
+                    type="email"
+                    placeholder="placeholder"
+                    class="volunteer-textinput3 input"
+                    />
+                    <div class="volunteer-container25">
+                    <span class="volunteer-text32">Subject of Message</span>
+                    </div>
+                    <select class="volunteer-select">
+                    <option value="Volunteer with the babies">
+                    Volunteer with the babies
+                    </option>
+                    <option value="Assist with fund raising">
+                    Assist with fund raising
+                    </option>
+                    <option value="Become a drop off point">
+                    Become a drop off point
+                    </option>
+                    <option value="Have items to donate">Have items to donate</option>
+                    <option value="Other">Other</option>
+                    </select>
+                    <div class="volunteer-container26">
+                    <span class="volunteer-text33">Message</span>
+                    </div>
+                    <input
+                    type="text"
+                    placeholder="placeholder"
+                    class="volunteer-textinput4 input"
+                    />
+                    <button class="volunteer-button button">Message Us</button>
+                    </form>*@
+        </div>
+
+        <form action="https://formsubmit.co/kerry@upperhighwaybabyhome.co.za" method="POST">
+    <!--put their email inreplace of mine-->
+    <input type="text" name="First name" placeholder="First name" style="text-align:center; width:188px; margin-right:11px" required> <input type="text" name="Last name" placeholder="Last name" style="text-align:center; width:188px;" required>
+    <br />
+    <br />
+    <input type="text" name="Phone number" placeholder="Phone number" style="text-align:center; width:392px;" required>
+    <br />
+    <br />
+    <input type="email" name="email" placeholder=" Email Address" style="text-align:center; width:392px;" required>
+    <br />
+    <br />
+    <h5 style="color:#93c954" class="display-4, text-center, font-family:Sans-serif ">Subject</h5>
+    <span class="radio"><input type="radio" name="_subject" value="Volunteer with the babies" style="font-size:20px" />   Volunteer with the babies</span>
+    <br />
+    <span class="radio"><input type="radio" name="_subject" value="Assist with fund raising" style="font-size:20px" />   Assist with fund raising</span>
+    <br />
+    <span class="radio"><input type="radio" name="_subject" value="Become a drop off point" style="font-size:20px" />   Become a drop off point</span>
+    <br />
+    <span class="radio"><input type="radio" name="_subject" value="Have items to donate" style="font-size:20px" />   Have items to donate</span>
+    <br />
+    <span class="radio"><input type="radio" name="_subject" value="Other" style="font-size:20px" />   Other</span>
+    <br />
+    <br />
+    <input type="text" name="Message" placeholder="Message" style="text-align:center; height:150px; width:392px" required>
+    <br />
+    <br />
+    <button type="submit" onclick="">Send</button>
+</form>
+        <div class="volunteer-banner1">
+          <h1 class="volunteer-text34">
+            Thank you for taking an interest in our home and babies.
+          </h1>
+          <div class="volunteer-btn-group1"></div>
+        </div>
+        <div class="volunteer-container27"></div>
+      </div>
+    </div>
+
+  </body>
+</html>
+
